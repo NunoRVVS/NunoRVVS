@@ -1,6 +1,6 @@
 👋👋 Hi, Nuno here!!
 <br><br>
-I’m a Front-end developer. 
+I’m a Web Developer. 
 I am quite interested in anything that revolves around technology, sports, music, art, life style. 
 <br>
 Currently in a learning journey through the software development world. Aiming for that big dream called full stack. But for now, I am into Front-end development.
