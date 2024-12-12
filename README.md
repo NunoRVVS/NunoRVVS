@@ -3,7 +3,7 @@
 I’m a Web Developer. 
 I am quite interested in anything that revolves around technology, sports, music, art, life style. 
 <br>
-Currently in a learning journey through the software development world. Aiming for that big dream called full stack. But for now, I am into Front-end development.
+Currently in a learning journey through the software development world. Aiming for that big dream called full stack. But for now, I am into a mix of Front-end and Back-End development.
 <br>
  How to reach me:
  <br>
